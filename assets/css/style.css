@@ -1,8 +1,7 @@
 /* ==============================================
 
-Template: ukieCard
+Author: Ukieweb
 Version: 1.0
-Author:	Ukieweb
 
     - General setting
     - Home header
@@ -219,7 +218,7 @@ a:hover, a:visited, a:focus, a:active{
     display: inline-block;
 }
 .home-header .foto img{
-    width: 232px;
+/*    width: 232px;*/
     height: 232px;
 }
 .home-header .title{
@@ -358,6 +357,20 @@ a:hover, a:visited, a:focus, a:active{
 .owl-theme .owl-controls {
     margin-top: 20px;
     text-align: left;
+}
+
+
+/* ------------------
+    Profile
+--------------------*/
+
+#profile-img {
+    width: 30em;
+    border-radius: 15px;
+}
+
+#two {
+    font-size: 64px;
 }
 
 /* ------------------
@@ -572,7 +585,6 @@ a:hover, a:visited, a:focus, a:active{
     background-size: 30%;
     background-position: center;
 }
-
 
 /* ------------------
     Contact

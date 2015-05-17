@@ -1,8 +1,7 @@
 /*
- Author: Ukieweb
- Template: ukieCard
+ Author: Aditya Sakhuja
  Version: 1.0
- URL: http://themeforest.net/user/UkieWeb
+ URL: http://adityasakhuja.co
  */
 
 $(document).ready(function(){

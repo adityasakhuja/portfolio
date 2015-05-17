@@ -5,11 +5,11 @@
     $email = $_POST['email'];
     $message = ( $_POST['message'] ) ? $_POST['message'] : '';
 
-    $to = 'm.ostafiychuk@gmail.com'; //'youremail@domain.com';
+    $to = 'contact@adityasakhuja.co'; //'youremail@domain.com';
     $message = 'Name: '.$name.'<br /> Email: '.$email.'<br />Message: '.$message;
 
     $headers = "From: You company <".$to.">". "\r\n" .
-                  "Return-Path: You company <info@yousite.com>\r\n".
+                  "Return-Path: You company <contact@adityasakhuja.co>\r\n".
                   "Reply-To: You company <".$to.">" . "\r\n" .
                   "MIME-Version: 1.0\r\n".
                   "Content-type: text/html; charset=iso-8859-1\r\n".
