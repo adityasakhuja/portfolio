@@ -2,7 +2,7 @@
 .DS_Store
 
 # PSD
-.psd
+*.psd
 
 # Extras folder
 pricing.html
